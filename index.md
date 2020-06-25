@@ -17,11 +17,15 @@
 
 > The game of LanGong 蓝光游戏
 
+![zff](/img/zff.png)
+
 [**Zff-electron** (Play)](/zff-electron)
 
 > Better picture then Zff, work with electron 画质比Zff更好，借助electron工作
 >
 > You can visit with [npm](https://npmjs.org/package/zff-electron) and [GitHub](https://github.com/ohzff/zff-electron) 你可以通过npm或GitHub下载他们
+
+![zff-electron](/img/zff-electron.png)
 
 [**Zff-Win**](/Zff-Win)
 
