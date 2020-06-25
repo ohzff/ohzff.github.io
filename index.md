@@ -3,6 +3,8 @@
 > And this is come from [LanGong](https://langong-dev.github.io)
 >
 > We are LanGong
+>
+> Author is @langonginc (5+1) 作者是@langonginc (5+1)
 
 ![LanGong-LOGO-IMG-BLACK](https://langong-dev.github.io/img/black.png)
 
