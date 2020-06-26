@@ -17,11 +17,15 @@
 
 [**Zff**](/Zff)
 
+![](https://img.shields.io/github/release/ohzff/Zff.svg)
+
 > The game of LanGong 蓝光游戏
 
 ![zff](/img/zff.png)
 
 [**Zff-electron** (Play)](/zff-electron)
+
+![](https://img.shields.io/github/release/ohzff/zff-electron.svg)
 
 > [Zff-electron Wiki](https://github.com/ohzff/zff-electron/wiki) [Zff-electron Play](/zff-electron) [Zff-electron Npm](https://www.npmjs.com/package/zff-electron)
 >
@@ -32,6 +36,8 @@
 ![zff-electron](/img/zff-electron.png)
 
 [**Zff-Win**](/Zff-Win)
+
+![](https://img.shields.io/github/release/ohzff/Zff-Win.svg)
 
 > Zff for Windows 
 
