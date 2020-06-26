@@ -23,7 +23,7 @@
 
 [**Zff-electron** (Play)](/zff-electron)
 
-> [Zff-electron Wiki](https://github.com/ohzff/zff-electron/wiki) [Zff-electron Play](/zff-electron)
+> [Zff-electron Wiki](https://github.com/ohzff/zff-electron/wiki) [Zff-electron Play](/zff-electron) [Zff-electron Npm](https://www.npmjs.com/package/zff-electron)
 >
 > Better picture then Zff, work with electron 画质比Zff更好，借助electron工作
 >
