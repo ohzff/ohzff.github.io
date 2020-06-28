@@ -19,6 +19,8 @@
 
 ![](https://img.shields.io/github/release/ohzff/Zff.svg)
 
+[Downloads Lastest Version and Build Yourself](https://glare.now.sh/ohzff/Zff/zip)  OR  [Downloads With LanFilePackage](https://github.com/ohzff/Zff#readme)
+
 > The game of LanGong 蓝光游戏
 
 ![zff](/img/zff.png)
@@ -26,6 +28,8 @@
 [**Zff-electron** (Play)](/zff-electron)
 
 ![](https://img.shields.io/github/release/ohzff/zff-electron.svg)
+
+[Downloads Lastest Version and Build Yourself](https://glare.now.sh/ohzff/zff-electron/zip)  OR  [Downloads With LanFilePackage](https://github.com/ohzff/zff-electron#readme)
 
 > [Zff-electron Wiki](https://github.com/ohzff/zff-electron/wiki) [Zff-electron Play](/zff-electron) [Zff-electron Npm](https://www.npmjs.com/package/zff-electron)
 >
@@ -38,6 +42,8 @@
 [**Zff-Win**](/Zff-Win)
 
 ![](https://img.shields.io/github/release/ohzff/Zff-Win.svg)
+
+[Downloads Lastest Version](https://glare.now.sh/ohzff/Zff-Win/zip)
 
 > Zff for Windows 
 
