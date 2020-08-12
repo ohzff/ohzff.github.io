@@ -15,6 +15,12 @@
 
 # All Zff 所有的撞Fufu
 
+[**(推荐) qtZff**](/qtzff)
+
+> Work with Qt5
+> 
+> for Windows, Linux, MacOS
+
 [**Zff**](/Zff)
 
 ![](https://img.shields.io/github/release/ohzff/Zff.svg)
@@ -49,17 +55,16 @@
 
 # Differents 差异
 
-| Items | Zff | Zff-electron | Zff-Win | Zff-Online |
-|:---:|:---:|:---:|:---:|:---:|
-| Runs in | Linux/MacOS | Any | Windows | Any |
-| Price | Free | Free | Free | Free |
-| With | Termial | Electron, npm, termial | Powershell | Electron, npm, termial |
-| Install by | Git/Download-zip/LFP | Git/Download-zip/LFP | Git/Download-zip | Download-zip/Git |
-| Picture | Bad | Perfect | Bad | Good |
-| Repos | ohzff/Zff | ohzff/zff-electron | ohzff/Zff-Win | langong-dev/ZffOnline |
-| Visits on | GitHub | GitHub/Npm | GitHub | GitHub |
-| Compiles | Yes | No | Yes | No |
-| Useful | Not realy | Very useful | Not realy | Useful, but hard to download |
-| Play online | No | [Yes](/zff-electron) | No | No |
-| Update | Often | Often | Sometimes | Never |
+| Items | Zff | Zff-electron | Zff-Win | Zff-Online | QtZff |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| Runs in | Linux/MacOS | Any | Windows | Any | Any |
+| With | Termial | Electron, npm, termial | Powershell | Electron, npm, termial | Qt5, Xorg |
+| Install by | Git/Download-zip/AUR | Git/Download-zip/LFP | Git/Download-zip | Download-zip/Git | Git/AUR |
+| Picture | Bad | Perfect | Bad | Good | Prefect |
+| Repos | ohzff/Zff | ohzff/zff-electron | ohzff/Zff-Win | langong-dev/ZffOnline | ohzff/qtzff |
+| Visits on | GitHub | GitHub/Npm | GitHub | GitHub | GitHub |
+| Compiles | Yes | No | Yes | No | Yes (Need qmake) |
+| Useful | Not realy | Very useful | Not realy | Useful, but hard to download | Very useful and download easy |
+| Play online | No | [Yes](/zff-electron) | No | No | No |
+| Update | Often | Sometimes | Sometimes | Never | Often |
 
