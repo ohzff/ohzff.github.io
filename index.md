@@ -17,11 +17,15 @@
 
 [**(推荐) qtZff**](/qtzff)
 
+![Zff Card](https://github-readme-stats.vercel.app/api/pin/?username=ohzff&repo=qtzff)
+
 > Work with Qt5
 > 
 > for Windows, Linux, MacOS
 
 [**Zff**](/Zff)
+
+![Zff Card](https://github-readme-stats.vercel.app/api/pin/?username=ohzff&repo=Zff)
 
 ![](https://img.shields.io/github/release/ohzff/Zff.svg)
 
