@@ -29,7 +29,7 @@
 
 ![](https://img.shields.io/github/release/ohzff/Zff.svg)
 
-[Downloads Lastest Version and Build Yourself](https://glare.now.sh/ohzff/Zff/zip)  OR  [Downloads With LanFilePackage](https://github.com/ohzff/Zff#readme)
+[Downloads With GitHub](https://github.com/ohzff/Zff#readme)
 
 > The game of LanGong 蓝光游戏
 
@@ -39,11 +39,7 @@
 
 ![](https://img.shields.io/github/release/ohzff/zff-electron.svg)
 
-[Downloads Lastest Version and Build Yourself](https://glare.now.sh/ohzff/zff-electron/zip)  OR  [Downloads With LanFilePackage](https://github.com/ohzff/zff-electron#readme)
-
 > [Zff-electron Wiki](https://github.com/ohzff/zff-electron/wiki) [Zff-electron Play](/zff-electron) [Zff-electron Npm](https://www.npmjs.com/package/zff-electron)
->
-> Better picture then Zff, work with electron 画质比Zff更好，借助electron工作
 >
 > You can visit with [npm](https://npmjs.org/package/zff-electron) and [GitHub](https://github.com/ohzff/zff-electron) 你可以通过npm或GitHub下载他们
 
