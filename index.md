@@ -17,7 +17,7 @@
 
 [**(推荐) qtZff**](/qtzff)
 
-![Zff Card](https://github-readme-stats.vercel.app/api/pin/?username=ohzff&repo=qtzff)
+[![Zff Card](https://github-readme-stats.vercel.app/api/pin/?username=ohzff&repo=qtzff)](https://github.com/ohzff/qtzff)
 
 > Work with Qt5
 > 
@@ -25,7 +25,7 @@
 
 [**Zff**](/Zff)
 
-![Zff Card](https://github-readme-stats.vercel.app/api/pin/?username=ohzff&repo=Zff)
+[![Zff Card](https://github-readme-stats.vercel.app/api/pin/?username=ohzff&repo=Zff)](https://github.com/ohzff/Zff)
 
 ![](https://img.shields.io/github/release/ohzff/Zff.svg)
 
