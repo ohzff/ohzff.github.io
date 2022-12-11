@@ -1,70 +1,23 @@
-> This is OhZff's Website. 这里是OhZff的官方网站
-> 
-> And this is come from [LanGong](https://langong-dev.github.io)
->
-> We are LanGong
->
-> Author is @langonginc (5+1) 作者是@langonginc (5+1)
+This is the website of zff.
 
-![LanGong-LOGO-IMG-BLACK](https://langong-dev.github.io/img/black.png)
+# Active apps
 
-# About 关于
+All our games support **cross-platform** (Windows, Linux, macOS).
 
-- Zff game is a 2D game 撞FuFu是一个2D游戏
-- Let People `H` to catch Fufu 让小人`H`去抓Fufu
+## [Beta] Zff-Reload ![](https://img.shields.io/github/tag/ohzff/Zff-Reload.svg)
 
-# All Zff 所有的撞Fufu
+A new game!
 
-[**(推荐) qtZff**](/qtzff)
+[![Zff Card](https://github-readme-stats.vercel.app/api/pin/?username=ohzff&repo=Zff-Reload)](https://github.com/ohzff/Zff-Reload)
 
-[![Zff Card](https://github-readme-stats.vercel.app/api/pin/?username=ohzff&repo=qtzff)](https://github.com/ohzff/qtzff)
+## Zff ![](https://img.shields.io/github/tag/ohzff/Zff.svg)
 
-> Work with Qt5
-> 
-> for Windows, Linux, MacOS
-
-[**Zff**](/Zff)
+Original Zff
 
 [![Zff Card](https://github-readme-stats.vercel.app/api/pin/?username=ohzff&repo=Zff)](https://github.com/ohzff/Zff)
 
-![](https://img.shields.io/github/release/ohzff/Zff.svg)
+## 2048
 
-[Downloads With GitHub](https://github.com/ohzff/Zff#readme)
+An 2048 game.
 
-> The game of LanGong 蓝光游戏
-
-![zff](/img/zff.png)
-
-[**Zff-electron** (Play)](/zff-electron)
-
-![](https://img.shields.io/github/release/ohzff/zff-electron.svg)
-
-> [Zff-electron Wiki](https://github.com/ohzff/zff-electron/wiki) [Zff-electron Play](/zff-electron) [Zff-electron Npm](https://www.npmjs.com/package/zff-electron)
->
-> You can visit with [npm](https://npmjs.org/package/zff-electron) and [GitHub](https://github.com/ohzff/zff-electron) 你可以通过npm或GitHub下载他们
-
-![zff-electron](/img/zff-electron.png)
-
-[**Zff-Win**](/Zff-Win)
-
-![](https://img.shields.io/github/release/ohzff/Zff-Win.svg)
-
-[Downloads Lastest Version](https://glare.now.sh/ohzff/Zff-Win/zip)
-
-> Zff for Windows 
-
-# Differents 差异
-
-| Items | Zff | Zff-electron | Zff-Win | Zff-Online | QtZff |
-|:---:|:---:|:---:|:---:|:---:|:---:|
-| Runs in | Linux/MacOS | Any | Windows | Any | Any |
-| With | Termial | Electron, npm, termial | Powershell | Electron, npm, termial | Qt5, Xorg |
-| Install by | Git/Download-zip/AUR | Git/Download-zip/LFP | Git/Download-zip | Download-zip/Git | Git/AUR |
-| Picture | Bad | Perfect | Bad | Good | Prefect |
-| Repos | ohzff/Zff | ohzff/zff-electron | ohzff/Zff-Win | langong-dev/ZffOnline | ohzff/qtzff |
-| Visits on | GitHub | GitHub/Npm | GitHub | GitHub | GitHub |
-| Compiles | Yes | No | Yes | No | Yes (Need qmake) |
-| Useful | Not realy | Very useful | Not realy | Useful, but hard to download | Very useful and download easy |
-| Play online | No | [Yes](/zff-electron) | No | No | No |
-| Update | Often | Sometimes | Sometimes | Never | Often |
-
+[![Zff Card](https://github-readme-stats.vercel.app/api/pin/?username=ohzff&repo=2048)](https://github.com/ohzff/2048)
